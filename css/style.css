@@ -334,7 +334,7 @@ img {
 }
 
 .article-container {
-  max-width: 1040px;
+  max-width: 600px;
   margin: 0 auto;
   padding: 0 20px;
 }
@@ -369,7 +369,7 @@ img {
   height: 100%;
   content: "";
   border-radius: 3px;
-  background-color: #333;
+  background-color: #002aff;
 }
 
 .article-body p {
