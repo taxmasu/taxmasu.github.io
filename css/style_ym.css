@@ -46,6 +46,6 @@ hr.gradient {
 .button-033:hover::after {
   width: 100%;
   height: 100%;
-  border-color: #1A0DAB;
+  border-color: #1558d6;
   transition: width .3s ease, height .3s .3s ease;
 }
