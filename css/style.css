@@ -304,12 +304,8 @@ img {
   padding: 10px;
   cursor: pointer;
   text-align: center;
+  color: #c7c7c7;
   background-color: #4c4c4c;
-}
-
-.page-top .material-icons-outlined {
-  vertical-align: bottom;
-  color: #fff;
 }
 
 /*--------------------------------
