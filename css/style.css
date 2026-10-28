@@ -549,3 +549,20 @@ img {
     margin-bottom: 20px;
   }
 }
+
+/*--------------------------------
+JavaScriptで行っていた従来の「▲ TOP」の機能を維持するための追加
+---------------------------------*/
+html {
+  scroll-behavior: smooth;
+}
+
+a.page-top {
+  display: block;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
